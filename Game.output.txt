@@ -1,0 +1,64 @@
+You're in the Nexus
+100 room points for the Nexus!
+
+n)orth, s)outh, e)ast, w)est, u)p, l)ook, g)et, dR)op, deF)end, T)ake,
+d)own, m)agic word, q)uit ? 
+n
+You are leaving current room: You are leaving the Nexus
+You are in the dreaded Room2
+Total Room visited: 1
+Your points: 100There is treasure here.
+
+n)orth, s)outh, e)ast, w)est, u)p, l)ook, g)et, dR)op, deF)end, T)ake,
+d)own, m)agic word, q)uit ? 
+e
+ you are entering room: You are in Taco shop Room4
+Total Room visited: 2There is treasure here.
+
+n)orth, s)outh, e)ast, w)est, u)p, l)ook, g)et, dR)op, deF)end, T)ake,
+d)own, m)agic word, q)uit ? 
+m
+--------------------Say the MagicWord----------------------------
+----You have severl MagicWord that can help you with your game---
+----Select Power for more Weapon Power---------------------------
+----Select Light to get room hidden information------------------
+----Select Life to add life to your player-----------------------
+Light
+--Room Hidden information-------
+--The lightSwitch is On!--------
+--Room points: 100---------
+--Room Id: 0-----------
+Light not a magic word
+There is treasure here.
+
+n)orth, s)outh, e)ast, w)est, u)p, l)ook, g)et, dR)op, deF)end, T)ake,
+d)own, m)agic word, q)uit ? 
+m
+--------------------Say the MagicWord----------------------------
+----You have severl MagicWord that can help you with your game---
+----Select Power for more Weapon Power---------------------------
+----Select Light to get room hidden information------------------
+----Select Life to add life to your player-----------------------
+Power
+
+You got more Power! 431169
+There is treasure here.
+
+n)orth, s)outh, e)ast, w)est, u)p, l)ook, g)et, dR)op, deF)end, T)ake,
+d)own, m)agic word, q)uit ? 
+m
+--------------------Say the MagicWord----------------------------
+----You have severl MagicWord that can help you with your game---
+----Select Power for more Weapon Power---------------------------
+----Select Light to get room hidden information------------------
+----Select Life to add life to your player-----------------------
+l Life
+
+----Your life time was------
+1
+----You got more life time: 2
+Life not a magic word
+There is treasure here.
+
+n)orth, s)outh, e)ast, w)est, u)p, l)ook, g)et, dR)op, deF)end, T)ake,
+d)own, m)agic word, q)uit ? 
