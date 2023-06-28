@@ -1,2 +1,2 @@
 # Text Based Adventure Game
-Game console using c++
+Written in C++ - text based adventure game similar to Colossal Cave Adventure
